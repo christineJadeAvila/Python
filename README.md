@@ -1,2 +1,2 @@
 # Python
-Random python practice
+python practice
